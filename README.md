@@ -1,4 +1,4 @@
-# book
+# music
 
 ## Project setup
 ```
